@@ -39,7 +39,6 @@ Je conçois et développe des produits innovants tels que des **chatbots**, des 
 | Agent IA de Lecture PDF (FR) | Assistant intelligent pour lire et analyser des fichiers PDF en français avec extraction de texte et réponses aux questions | [Voir sur GitHub](https://github.com/SeydinaBANE/Agent_IA_pdf) |
 | Résumeur de Réunion Intelligent | Outil IA pour générer automatiquement des résumés précis et structurés de réunions | [Voir sur GitHub](https://github.com/SeydinaBANE/Resumeur_Intelligent) |
 | Détection de Visage avec Streamlit et OpenCV | Application utilisant Streamlit et OpenCV pour détecter et visualiser des visages en temps réel | [Voir sur GitHub](https://github.com/SeydinaBANE/Detection_Faciale_Streamlit_OpenCV) |
-| [Projet LinkedIn] | Description du projet. (À compléter une fois le dépôt GitHub créé) | [À venir] |
 
 ---
 
